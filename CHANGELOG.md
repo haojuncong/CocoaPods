@@ -12,6 +12,9 @@ To install release candidates run `[sudo] gem install cocoapods --pre`
   [Marius Rackwitz](https://github.com/mrackwitz)
   [#3440](https://github.com/CocoaPods/CocoaPods/issues/3440)
 
+* Don't generate an umbrella header when a custom module map is specified.  
+  [Samuel Giddins](https://github.com/segiddins)
+
 
 ## 0.37.0
 
